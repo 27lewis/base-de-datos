@@ -1,7 +1,9 @@
 <?php require "./inc/session_start.php"; ?>
 <!DOCTYPE html>
 <html>
-
+    <head>
+        <title>LEWIS ESCORCIA</title>
+    </head>
     <body>
         <?php
             if(!isset($_GET['vista']) || $_GET['vista']==""){
