@@ -1,3 +1,7 @@
+
+<head>
+	<link rel="stylesheet"href="./css/404.css">
+</head>
 <div class="main-container">
 	<section class="hero-body">
 	  	<div class="hero-body">

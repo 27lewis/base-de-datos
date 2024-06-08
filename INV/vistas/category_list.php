@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet"href="./css/categoria_lista.css">
+</head>
 <div class="container is-fluid mb-6">
     <h1 class="title">Categorías</h1>
     <h2 class="subtitle">Lista de categoría</h2>

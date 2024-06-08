@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet"href="./css/producto_lista.css">
+</head>
 <div class="container is-fluid mb-6">
     <h1 class="title">Productos</h1>
     <h2 class="subtitle">Lista de productos</h2>

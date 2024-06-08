@@ -1,0 +1,45 @@
+.has-text-right {
+    text-align: right;
+}
+
+.pt-4 {
+    padding-top: 1rem; /* You can adjust this value as needed */
+}
+
+.pb-4 {
+    padding-bottom: 1rem; /* You can adjust this value as needed */
+}
+
+.button {
+    display: inline-block;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+    border: 2px solid transparent;
+    border-radius: 0.5em;
+    text-decoration: none;
+    color: white;
+    background-color: #3273dc; /* Default color */
+}
+
+.button:hover {
+    background-color: #276cda; /* Hover color */
+}
+
+.is-link {
+    background-color: #3273dc; /* Default color */
+    border-color: #3273dc; /* Default color */
+}
+
+.is-link:hover {
+    background-color: #276cda; /* Hover color */
+    border-color: #276cda; /* Hover color */
+}
+
+.is-rounded {
+    border-radius: 2em; /* You can adjust this value as needed */
+}
+
+.btn-back {
+    text-decoration: none;
+    color: white;
+}

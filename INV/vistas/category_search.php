@@ -1,3 +1,4 @@
+<link rel="stylesheet"href="./css/categoria_buscador.css">
 <div class="container is-fluid mb-6">
     <h1 class="title">Categorías</h1>
     <h2 class="subtitle">Buscar categoría</h2>

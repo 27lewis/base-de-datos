@@ -4,6 +4,9 @@
     $id = (isset($_GET['user_id_up'])) ? $_GET['user_id_up'] : 0;
     $id=limpiar_cadena($id);
 ?>
+<head>
+	<link rel="stylesheet" href="./css/usuario_update.css">
+</head>
 <div class="container is-fluid mb-6">
 	<?php if($id==$_SESSION['id']){ ?>
 		<h1 class="title">Mi cuenta</h1>

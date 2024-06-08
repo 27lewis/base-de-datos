@@ -1,0 +1,87 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    color: #666;
+    margin-bottom: 1em;
+}
+
+.notification {
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #f0f9eb;
+    border: 1px solid #c8e1c8;
+    border-radius: 4px;
+}
+
+.columns {
+    margin-top: 1em;
+}
+
+.column {
+    padding: 0 0.75em;
+}
+
+.box {
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.title.is-4 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.image {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.file {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.has-text-centered {
+    text-align: center;
+}
+
+.is-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.is-justify-content-center {
+    justify-content: center;
+}
+
+.is-success {
+    background-color: #48c774;
+    color: #fff;
+}
+
+.is-danger {
+    background-color: #f14668;
+    color: #fff;
+}
+
+.is-rounded {
+    border-radius: 999px;
+}
+
+.file-cta {
+    cursor: pointer;
+}

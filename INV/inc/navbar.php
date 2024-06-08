@@ -1,14 +1,17 @@
+<head>
+    <link rel="stylesheet" href="./css/nav.css">
+</head>
 <nav class="navbar" role="navigation" aria-label="main navigation">
 
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php?vista=home">
-        <img src="" width="65" height="28">
+            <img src="./img/pp.png" width="65" height="28" alt="Logo">
         </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
         </a>
     </div>
 
@@ -55,7 +58,7 @@
                         Mi cuenta
                     </a>
 
-                    <a href="index.php?vista=logout" class="button is-link is-rounded">
+                    <a href="index.php?vista=logout" class="button is-danger is-rounded">
                         Salir
                     </a>
                 </div>

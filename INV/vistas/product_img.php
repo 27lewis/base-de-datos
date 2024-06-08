@@ -1,3 +1,7 @@
+
+<head>
+	<link rel="stylesheet"href="./css/procuto_img.css">
+</head>
 <div class="container is-fluid mb-6">
 	<h1 class="title">Productos</h1>
 	<h2 class="subtitle">Actualizar imagen de producto</h2>

@@ -1,0 +1,55 @@
+/* Estilo para el contenedor del formulario */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Estilo para los títulos */
+.title {
+    color: #333;
+    font-size: 24px;
+}
+
+.subtitle {
+    color: #555;
+    font-size: 18px;
+}
+
+/* Estilo para los campos de entrada */
+.input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Estilo para los botones */
+.button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button.is-info {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.button.is-info:hover {
+    background-color: #0056b3;
+}
+
+.button.is-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.button.is-danger:hover {
+    background-color: #c82333;
+}

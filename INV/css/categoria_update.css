@@ -1,0 +1,50 @@
+/* Estilo para el contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo para los títulos */
+.title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    color: #666;
+    margin-bottom: 1em;
+}
+
+/* Estilo para los formularios */
+.form-rest {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+/* Estilo para los campos de entrada */
+.input {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Estilo para los botones */
+.button {
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button.is-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.has-text-centered {
+    text-align: center;
+}

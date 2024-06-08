@@ -1,0 +1,32 @@
+/* Estilos generales */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    color: #666;
+    margin-bottom: 1em;
+}
+
+.notification {
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: #f0f9eb;
+    border: 1px solid #c8e1c8;
+    border-radius: 4px;
+}
+
+/* Estilos específicos */
+.is-primary {
+    background-color: #209cee;
+    color: #fff;
+}
+

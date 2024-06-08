@@ -1,3 +1,7 @@
+
+<head>
+<link rel="stylesheet" href="./css/categoria_new.css">
+</head>
 <div class="container is-fluid mb-6">
 	<h1 class="title">Categorías</h1>
 	<h2 class="subtitle">Nueva categoría</h2>
